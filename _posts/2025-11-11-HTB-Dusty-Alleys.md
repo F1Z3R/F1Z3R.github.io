@@ -1,7 +1,7 @@
 ---
 title: Dusty Alley Writeup 
 date: 2025-11-11 18:00 +0100
-categories: [Pentesting, Hach The Bax, WEB]
+categories: [Pentesting, Hack The Bax, WEB]
 tags: [web, pentest,HTB,writeup, cheat-sheet]
 author: F1Z3R
 ---
